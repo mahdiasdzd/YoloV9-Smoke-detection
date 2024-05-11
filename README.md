@@ -1,7 +1,9 @@
 # Smoke Detection in two classes (white, black) Using Yolo V9 and csir-7 smoke dataset
 
-the dataset contain 708 total images and it split in 3 directory:
+* the dataset contain 708 total images and it split in 3 directory:
+
 The official csir-7 page in Roboflow  [Roboflow_csir7](https://universe.roboflow.com/vjti-tu8hq/csir-7/dataset/4#).
+
 - Train (TRAIN SET, 92%, 650 images)
 - Validation (VALID SET, 6%, 39)
 - Test (TEST SET, 3%, 19)
