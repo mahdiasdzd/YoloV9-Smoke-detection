@@ -13,4 +13,4 @@ The official YoloV9 page in Github ["WongKinYiu_ YOLO V9"](https://github.com/Wo
 
 Kaggle Training notebook:
 
-["Mahdi Asadzadeh"](https://www.kaggle.com/code/mahdiasdzd/yolov9-smoke-detection/notebook).
+["yolov9-smoke-detection"](https://www.kaggle.com/code/mahdiasdzd/yolov9-smoke-detection/notebook).
