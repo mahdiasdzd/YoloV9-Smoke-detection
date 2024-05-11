@@ -11,3 +11,6 @@ The official csir-7 page in Roboflow  [Roboflow_csir7](https://universe.roboflow
 YOLO V9:
 The official YoloV9 page in Github ["WongKinYiu_ YOLO V9"](https://github.com/WongKinYiu/yolov9).
 
+Kaggle Training notebook:
+
+["Mahdi Asadzadeh"](https://www.kaggle.com/code/mahdiasdzd/yolov9-smoke-detection/notebook).
